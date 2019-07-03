@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  arr = ["1", "2", "3", "4"]
+  square_array(arr)
+  puts arr
 end
