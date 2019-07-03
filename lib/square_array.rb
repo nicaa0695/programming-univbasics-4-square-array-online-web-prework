@@ -1,6 +1,6 @@
 def square_array(array)
   a = 1
-  while a >= 10 
+  while a >= 8
   puts a 
   a += 1 
 end
