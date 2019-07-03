@@ -1,3 +1,12 @@
 def square_array(array)
-  # your code here
+  arr = [1, 2, 3, 4]
+  ([1, 2, 3]).each(no args)
+  square_array(arr)
 end
+def square_array(numbers)
+  new_numbers = []
+  numbers.each do |num|
+    new_numbers << (num ** 2),
+  end
+  return new_numbers
+ end
